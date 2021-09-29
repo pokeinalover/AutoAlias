@@ -13,4 +13,4 @@ Coded by pokeinalover & ContratopDev
 
 ## Execute
 
-    bash Autoalias/AutoAlias.sh
+    bash AutoAlias/AutoAlias.sh
