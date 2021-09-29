@@ -14,3 +14,7 @@ Coded by pokeinalover & ContratopDev
 ## Execute
 
     bash AutoAlias/AutoAlias.sh
+
+## Update
+
+    bash AutoAliasUpdater.sh
