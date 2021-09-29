@@ -17,4 +17,10 @@ Coded by pokeinalover & ContratopDev
 
 ## Update
 
-    bash AutoAliasUpdater.sh
+    bash AutoUpdater.sh
+
+## Troubleshoot:
+
+If the alias doesn´t apply, then use:
+
+    source $HOME/.bashrc    
